@@ -23,5 +23,4 @@ pixels that exceed a certain threshold and are the local maxima within a certain
 (to prevent redundant dupes of features). Compute a feature descriptor of all such points.
 <br/>
 <br/>
-For more all the algorithms used refer the Report file
-<br/>
+
